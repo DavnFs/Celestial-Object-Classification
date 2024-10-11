@@ -43,21 +43,15 @@ To run this project, you need to have Python installed. The main libraries requi
 - `matplotlib`
 - `numpy`
 
-You can install the dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/DavnFs/Celestial-Object-Classification.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd Celestial-Object-Classification
    ```
 3. Run the Jupyter notebook to explore the code and visualize results:
    ```bash
