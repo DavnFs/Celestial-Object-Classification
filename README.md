@@ -22,6 +22,7 @@ This project involves:
 - Evaluating the model performance
 
 ## Dataset
+https://www.kaggle.com/datasets/diraf0/sloan-digital-sky-survey-dr18
 
 The dataset contains features related to celestial objects, such as:
 - Magnitude in different filters
